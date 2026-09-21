@@ -1,12 +1,11 @@
-# STEP Semester 3
+# Week 1 — Assignment
 
-Java coursework for STEP Semester 3 — weekly assignments and practice problems.
+5 problems solved in Java, each as a single self-contained `.java` file under `Assignments/`.
 
-## Branch structure
-
-- `main` — this README only
-- `dev` — empty project skeleton (no code)
-- `feature/weekN-assignment` — Week N assignment solutions
-- `feature/weekN-practiceproblem` — Week N practice problem solutions
-
-Each feature branch is created off `dev` and has its own README describing the problems solved in it.
+| # | Title | Key Concepts |
+|---|-------|---------------|
+| 1 | Exam Hall Seat Duplication Checker | Arrays, nested loops, conditional logic |
+| 2 | Typing Speed Test Accuracy Checker | String traversal, `charAt()`, percentage calculation |
+| 3 | Traffic Signal Streak Analyzer | String traversal, character comparison, running maximum |
+| 4 | Warehouse Inventory Balancer | Arrays, sum accumulation, tracking maximum with index |
+| 5 | Movie Review Word Length Profiler | String splitting (`split()`), counting/categorization |
