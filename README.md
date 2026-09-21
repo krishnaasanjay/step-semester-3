@@ -1,12 +1,11 @@
-# STEP Semester 3
+# Week 6 — Practice Problems (Inheritance & Polymorphism, Category B)
 
-Java coursework for STEP Semester 3 — weekly assignments and practice problems.
+5 problems solved in Java, each as a single self-contained `.java` file under `Practice Problems/`.
 
-## Branch structure
-
-- `main` — this README only
-- `dev` — empty project skeleton (no code)
-- `feature/weekN-assignment` — Week N assignment solutions
-- `feature/weekN-practiceproblem` — Week N practice problem solutions
-
-Each feature branch is created off `dev` and has its own README describing the problems solved in it.
+| # | Title | Key Concepts |
+|---|-------|---------------|
+| 1 | Library Membership Foundation & Batch Enrollment Validator | Single inheritance, `super()`, constructor validation, try/catch batch processing |
+| 2 | Three Branches of the Membership Tree | Multilevel & hierarchical inheritance, `instanceof`, polymorphism |
+| 3 | The Student Discount & Fine Ledger | Method overriding, `super` calls, defensive copying |
+| 4 | The Weekly Circulation Report | Polymorphic dispatch, `StringBuilder`, guarded downcasting |
+| 5 | Membership Numbers, Renewal Codes & the Nightly Circulation Audit | Final fields, static counters, method overloading, `instanceof` dispatch, null-safety |
