@@ -1,12 +1,11 @@
-# STEP Semester 3
+# Week 4 — Assignment (Constructors and Java Keywords, Category B)
 
-Java coursework for STEP Semester 3 — weekly assignments and practice problems.
+5 problems solved in Java, each as a single self-contained `.java` file under `Assignments/`.
 
-## Branch structure
-
-- `main` — this README only
-- `dev` — empty project skeleton (no code)
-- `feature/weekN-assignment` — Week N assignment solutions
-- `feature/weekN-practiceproblem` — Week N practice problem solutions
-
-Each feature branch is created off `dev` and has its own README describing the problems solved in it.
+| # | Title | Key Concepts |
+|---|-------|---------------|
+| 1 | Overloaded Constructors for Hackathon Registration | Constructor overloading, `this()` chaining, arrays |
+| 2 | `this` Keyword for Canteen Inventory — Batch Restock | `this` keyword for field/parameter clashes |
+| 3 | `final` Method — Parking Overstay Fine Calculator | `final` methods, parallel arrays, if-else skip logic |
+| 4 | Static Block — Library Membership Card Setup | Static blocks, static vs instance fields |
+| 5 | `instanceof` Inside a Loop — Canteen Payment Dispatch | `instanceof`, safe casting, inheritance |
