@@ -1,12 +1,11 @@
-# STEP Semester 3
+# Week 7 — Practice Problems (Abstraction & Interfaces, Category B)
 
-Java coursework for STEP Semester 3 — weekly assignments and practice problems.
+5 problems solved in Java, each as a single self-contained `.java` file under `Practice Problems/`.
 
-## Branch structure
-
-- `main` — this README only
-- `dev` — empty project skeleton (no code)
-- `feature/weekN-assignment` — Week N assignment solutions
-- `feature/weekN-practiceproblem` — Week N practice problem solutions
-
-Each feature branch is created off `dev` and has its own README describing the problems solved in it.
+| # | Title | Key Concepts |
+|---|-------|---------------|
+| 1 | The Talking Toy Box | Abstract classes, abstract methods, static counters in a shared constructor |
+| 2 | Warehouse Label Printer | Interfaces, unrelated classes implementing a shared contract |
+| 3 | Orchestra Warm-Up Routine | Multilevel inheritance, abstract methods overridden twice, `super` chaining |
+| 4 | Smart Kitchen Assistant | Abstract classes + interfaces together, JavaBean getter/setter validation |
+| 5 | Package Drop-Off Log | Abstract classes, method overloading, polymorphic dispatch over an array |
