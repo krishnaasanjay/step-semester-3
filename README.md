@@ -1,12 +1,11 @@
-# STEP Semester 3
+# Week 2 — Practice Problems
 
-Java coursework for STEP Semester 3 — weekly assignments and practice problems.
+5 problems solved in Java, each as a single self-contained `.java` file under `Practice Problems/`.
 
-## Branch structure
-
-- `main` — this README only
-- `dev` — empty project skeleton (no code)
-- `feature/weekN-assignment` — Week N assignment solutions
-- `feature/weekN-practiceproblem` — Week N practice problem solutions
-
-Each feature branch is created off `dev` and has its own README describing the problems solved in it.
+| # | Title | Key Concepts |
+|---|-------|---------------|
+| 1 | Vowel & Consonant Counter | `charAt()`, `length()`, loops, case-insensitive comparison |
+| 2 | CSV Student Record Parser | `split()`, array length validation, formatted output |
+| 3 | File Extension Validator | `lastIndexOf()`, `substring()`, `equalsIgnoreCase()` |
+| 4 | Masked Phone Number Formatter | digit validation, `substring()`, `StringBuilder`, masking |
+| 5 | Bank Transaction Reference Generator & Validator | `trim()`, `substring()`, `Character.isLetter()`/`isDigit()`, multi-stage validation |
