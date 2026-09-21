@@ -1,12 +1,11 @@
-# STEP Semester 3
+# Week 7 — Assignment (Abstraction & Interfaces, Category B)
 
-Java coursework for STEP Semester 3 — weekly assignments and practice problems.
+5 problems solved in Java, each as a single self-contained `.java` file under `Assignments/`.
 
-## Branch structure
-
-- `main` — this README only
-- `dev` — empty project skeleton (no code)
-- `feature/weekN-assignment` — Week N assignment solutions
-- `feature/weekN-practiceproblem` — Week N practice problem solutions
-
-Each feature branch is created off `dev` and has its own README describing the problems solved in it.
+| # | Title | Key Concepts |
+|---|-------|---------------|
+| 1 | Morning Wake-Up Circuit | Interfaces, unrelated classes implementing a shared contract |
+| 2 | Gallery Description Cards | Abstract classes, abstract methods, static counters in a shared constructor |
+| 3 | Backyard Toolshed Routine | Multilevel inheritance, abstract methods overridden twice, `super` chaining |
+| 4 | Digital Classroom Setup | Abstract classes + interfaces together, method overloading (compile-time polymorphism) |
+| 5 | Skyline Delivery Fleet | Interfaces independent of class hierarchy, `instanceof` + safe casting on `Object` |
