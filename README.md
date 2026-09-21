@@ -1,12 +1,11 @@
-# STEP Semester 3
+# Week 3 — Practice Problems (OOP Category B)
 
-Java coursework for STEP Semester 3 — weekly assignments and practice problems.
+5 problems solved in Java, each as a single self-contained `.java` file under `Practice Problems/`.
 
-## Branch structure
-
-- `main` — this README only
-- `dev` — empty project skeleton (no code)
-- `feature/weekN-assignment` — Week N assignment solutions
-- `feature/weekN-practiceproblem` — Week N practice problem solutions
-
-Each feature branch is created off `dev` and has its own README describing the problems solved in it.
+| # | Title | Key Concepts |
+|---|-------|---------------|
+| 1 | From Parallel Arrays to a Class — Placement Record | Constructors, arrays of objects, instance methods |
+| 2 | Encapsulated Mess-Card Wallet | Encapsulation, private fields, validation, read-only access |
+| 3 | Overloaded Constructors for a Course | Constructor overloading, `this()` chaining |
+| 4 | Reference Copies and a Shared ID Card | Reference copying, `==`, object identity |
+| 5 | Instance vs Static: Splitting a Class Correctly | Instance vs static members, static methods |
